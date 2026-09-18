@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "kak-podklyuchit-amocrm-k-wordpress",
+    "title": "Как подключить amoCRM к WordPress: Полное руководство по интеграции",
+    "meta_description": "Узнайте, как быстро и правильно настроить интеграцию amoCRM с сайтом на WordPress. Пошаговая инструкция для Contact Form 7, Elementor и WPForms.",
+    "primary_keyword": "интеграция amoCRM с WordPress",
+    "secondary_keywords": ["подключить амо срм к вордпресс", "amocrm wordpress плагин", "contact form 7 amocrm", "передача заявок в amocrm"],
+    "search_intent": "informational",
+    "target_products": ["amocrm-and-contact-form-7-integration", "amocrm-and-wpforms-integration", "elementor-and-amocrm-integration"],
+    "content_type": "guide",
+    "outline": [
+      "Зачем нужна интеграция amoCRM и WordPress",
+      "Способы подключения: API, вебхуки или готовые плагины",
+      "Настройка интеграции через Contact Form 7",
+      "Связка Elementor Forms и amoCRM",
+      "Ошибки при передаче лидов и как их избежать",
+      "Выводы и выбор оптимального решения"
+    ]
+  },
+  {
+    "slug": "integratsiya-bitrix24-i-woocommerce",
+    "title": "Интеграция Битрикс24 и WooCommerce: Как автоматизировать работу интернет-магазина",
+    "meta_description": "Подробный гайд по настройке обмена данными между интернет-магазином на WooCommerce и CRM Битрикс24. Автоматизация заказов и клиентов.",
+    "primary_keyword": "интеграция Битрикс24 и WooCommerce",
+    "secondary_keywords": ["woocommerce битрикс24", "woocommerce bitrix24 plugin", "перенос заказов из woocommerce в битрикс"],
+    "search_intent": "informational",
+    "target_products": ["woocommerce-and-bitrix24-integration", "wordpress-contact-form-7-and-bitrix24-integration"],
+    "content_type": "guide",
+    "outline": [
+      "Преимущества связки WooCommerce и Битрикс24",
+      "Что можно синхронизировать (заказы, товары, клиенты)",
+      "Пошаговая настройка плагина для WooCommerce",
+      "Настройка воронок и стадий сделок в CRM",
+      "Тестирование работы и частые проблемы",
+      "Заключение"
+    ]
+  },
+  {
+    "slug": "nastroyka-pipedrive-crm-dlya-wordpress",
+    "title": "Настройка Pipedrive CRM для WordPress: Сбор лидов с сайта",
+    "meta_description": "Как интегрировать Pipedrive CRM с формами на сайте WordPress. Руководство по подключению Contact Form 7, WPForms и Elementor.",
+    "primary_keyword": "интеграция Pipedrive с WordPress",
+    "secondary_keywords": ["pipedrive wordpress", "pipedrive woocommerce", "сбор лидов pipedrive", "плагин pipedrive для wp"],
+    "search_intent": "informational",
+    "target_products": ["contact-form-7-and-pipedrive-integration", "woocommerce-and-pipedrive-crm-integration", "elementor-and-pipedrive-integration"],
+    "content_type": "guide",
+    "outline": [
+      "Обзор возможностей Pipedrive для малого бизнеса",
+      "Выбор плагина для интеграции",
+      "Подключение к Contact Form 7",
+      "Интеграция с магазином WooCommerce",
+      "Как автоматически создавать сделки в воронке",
+      "Итоги"
+    ]
+  },
+  {
+    "slug": "podklyuchenie-yookassa-k-wordpress",
+    "title": "Как подключить ЮKassa к WordPress и WooCommerce",
+    "meta_description": "Пошаговое руководство по настройке приема платежей через ЮKassa на сайте WordPress. Интеграция с Contact Form 7 и WooCommerce.",
+    "primary_keyword": "подключить ЮKassa к WordPress",
+    "secondary_keywords": ["юкасса woocommerce", "платежный шлюз yookassa", "оплата на сайте wordpress юкасса", "contact form 7 yookassa"],
+    "search_intent": "informational",
+    "target_products": ["contact-form-7-integrasiya-yookassa"],
+    "content_type": "tutorial",
+    "outline": [
+      "Зачем использовать ЮKassa для приема платежей",
+      "Регистрация магазина и получение API ключей",
+      "Установка и настройка плагина для Contact Form 7",
+      "Настройка страницы успешной оплаты",
+      "Тестовые платежи и перевод в рабочий режим",
+      "Безопасность платежей на сайте"
+    ]
+  },
+  {
+    "slug": "priyem-platezhey-sber-v-wordpress",
+    "title": "Прием платежей через Сбербанк Эквайринг на WordPress",
+    "meta_description": "Инструкция по подключению интернет-эквайринга Сбербанка к сайту на WordPress. Настройка онлайн-оплаты через Contact Form 7.",
+    "primary_keyword": "Сбербанк эквайринг WordPress",
+    "secondary_keywords": ["оплата сбербанк wordpress", "contact form 7 сбер", "плагин оплаты сбербанк"],
+    "search_intent": "informational",
+    "target_products": ["contact-form-7-integrasiya-sber"],
+    "content_type": "tutorial",
+    "outline": [
+      "Как работает интернет-эквайринг от Сбербанка",
+      "Подготовка сайта к приему платежей (требования)",
+      "Настройка плагина Сбербанк для Contact Form 7",
+      "Настройка фискализации (онлайн-касса)",
+      "Проверка работы эквайринга",
+      "Заключение"
+    ]
+  },
+  {
+    "slug": "integratsiya-woocommerce-wildberries",
+    "title": "Синхронизация WooCommerce и Wildberries: Как продавать больше",
+    "meta_description": "Узнайте, как настроить автоматический обмен остатками и заказами между интернет-магазином на WooCommerce и маркетплейсом Wildberries.",
+    "primary_keyword": "интеграция WooCommerce и Wildberries",
+    "secondary_keywords": ["woocommerce wildberries плагин", "выгрузка товаров на wildberries", "синхронизация остатков вайлдберриз wordpress"],
+    "search_intent": "commercial",
+    "target_products": ["woocommerce-and-wildberries-integration"],
+    "content_type": "guide",
+    "outline": [
+      "Почему стоит продавать на сайте и маркетплейсе одновременно",
+      "Проблемы ручного обновления остатков",
+      "Выбор плагина для интеграции",
+      "Настройка выгрузки товаров на Wildberries по API",
+      "Синхронизация цен и остатков в реальном времени",
+      "Обработка заказов в WooCommerce"
+    ]
+  },
+  {
+    "slug": "woocommerce-i-ozon-integratsiya",
+    "title": "Интеграция Ozon и интернет-магазина (OpenCart/WordPress)",
+    "meta_description": "Как связать свой интернет-магазин с маркетплейсом Ozon. Настройка выгрузки товаров, цен и остатков по API.",
+    "primary_keyword": "интеграция Ozon и OpenCart",
+    "secondary_keywords": ["ozon opencart плагин", "выгрузка на ozon", "интеграция озон api"],
+    "search_intent": "informational",
+    "target_products": ["integrations-ozon-and-opencart", "woocommerce-and-1c-integration"],
+    "content_type": "guide",
+    "outline": [
+      "Особенности работы с Ozon по схемам FBO и FBS",
+      "Подготовка каталога товаров для экспорта",
+      "Настройка интеграции OpenCart и Ozon",
+      "Автоматическое обновление остатков",
+      "Работа с заказами и статусами",
+      "Частые ошибки при работе с API Ozon"
+    ]
+  },
+  {
+    "slug": "dostavka-sdek-v-woocommerce",
+    "title": "Интеграция доставки СДЭК для WooCommerce: Настройка калькулятора",
+    "meta_description": "Как добавить расчет стоимости доставки СДЭК и выбор ПВЗ на страницу оформления заказа в WooCommerce. Подробная инструкция.",
+    "primary_keyword": "интеграция СДЭК WooCommerce",
+    "secondary_keywords": ["плагин сдэк woocommerce", "калькулятор доставки сдэк wordpress", "выбор пвз сдэк woocommerce", "интеграция сдэк"],
+    "search_intent": "informational",
+    "target_products": ["integrations-cdek-and-woocommerce"],
+    "content_type": "tutorial",
+    "outline": [
+      "Преимущества работы со СДЭК для интернет-магазинов",
+      "Установка плагина интеграции СДЭК для WooCommerce",
+      "Настройка расчета стоимости по габаритам и весу",
+      "Вывод виджета с картой пунктов выдачи (ПВЗ)",
+      "Автоматическое создание накладных",
+      "Выводы"
+    ]
+  },
+  {
+    "slug": "uskorenie-wordpress-keshirovanie",
+    "title": "Как ускорить сайт на WordPress: Настройка кэширования",
+    "meta_description": "Руководство по оптимизации скорости загрузки сайта на WordPress. Использование плагинов кэширования и оптимизация базы данных.",
+    "primary_keyword": "ускорение сайта WordPress",
+    "secondary_keywords": ["плагин кэширования wordpress", "настройка кэша wordpress", "booster cache plugin"],
+    "search_intent": "informational",
+    "target_products": ["booster-cache-pluginhub"],
+    "content_type": "guide",
+    "outline": [
+      "Почему скорость сайта важна для SEO и конверсий",
+      "Анализ скорости загрузки (Google PageSpeed Insights)",
+      "Как работает кэширование в WordPress",
+      "Установка и базовая настройка Booster Cache",
+      "Оптимизация скриптов и стилей",
+      "Измерение результатов до и после"
+    ]
+  },
+  {
+    "slug": "perenos-sayta-wordpress",
+    "title": "Безопасный перенос сайта на WordPress на другой хостинг",
+    "meta_description": "Как перенести сайт на WordPress с сохранением данных и позиций в SEO. Инструкция по использованию плагина миграции.",
+    "primary_keyword": "перенос сайта WordPress",
+    "secondary_keywords": ["плагин миграции wordpress", "wp migrate plugin", "как перенести вордпресс"],
+    "search_intent": "informational",
+    "target_products": ["wp-migrate-pluginhub"],
+    "content_type": "tutorial",
+    "outline": [
+      "Когда необходимо переносить сайт",
+      "Подготовка к миграции (бэкапы)",
+      "Использование плагина WP Migrate",
+      "Импорт базы данных и файлов на новый сервер",
+      "Проверка работы сайта после переноса",
+      "Настройка редиректов и обновление DNS"
+    ]
+  },
+  {
+    "slug": "luchshie-crm-dlya-wordpress",
+    "title": "Топ-5 CRM систем для интеграции с WordPress в 2024 году",
+    "meta_description": "Сравнение лучших CRM систем для сайта на WordPress. Плюсы, минусы и готовые решения для amoCRM, Битрикс24, Pipedrive, Zoho.",
+    "primary_keyword": "CRM для WordPress",
+    "secondary_keywords": ["сравнение crm для сайта", "интеграция crm с wordpress", "какую crm выбрать"],
+    "search_intent": "comparison",
+    "target_products": ["amocrm-and-contact-form-7-integration", "woocommerce-and-bitrix24-integration", "contact-form-7-and-pipedrive-integration", "contact-form-7-and-zoho-crm-integration"],
+    "content_type": "listicle",
+    "outline": [
+      "Зачем нужна CRM-система на сайте",
+      "amoCRM: Идеально для продаж",
+      "Битрикс24: Мощный корпоративный портал",
+      "Pipedrive: Простая воронка для малого бизнеса",
+      "Zoho CRM и RetailCRM: Специфические решения",
+      "Итог: Как выбрать подходящую CRM"
+    ]
+  },
+  {
+    "slug": "platezhnye-shlyuzy-dlya-wordpress",
+    "title": "Обзор платежных систем для приема оплаты на WordPress",
+    "meta_description": "Сравнение популярных интернет-эквайрингов и платежных агрегаторов для РФ: ЮKassa, Сбербанк, Т-Банк, Робокасса.",
+    "primary_keyword": "платежные системы для WordPress",
+    "secondary_keywords": ["платежный шлюз wordpress", "эквайринг для сайта", "сравнение платежных систем рф"],
+    "search_intent": "comparison",
+    "target_products": ["contact-form-7-integrasiya-yookassa", "contact-form-7-integrasiya-sber", "contact-form-7-integrasiya-tbank", "contact-form-7-integrasiya-robokassa"],
+    "content_type": "listicle",
+    "outline": [
+      "Как выбрать платежную систему для интернет-магазина",
+      "ЮKassa: Плюсы, минусы и комиссии",
+      "Эквайринг от Сбербанка: Надежность для бизнеса",
+      "Т-Банк (Тинькофф): Современное решение",
+      "Робокасса: Отличный выбор для старта",
+      "Какую платежную систему подключить в 2024 году"
+    ]
+  }
+]

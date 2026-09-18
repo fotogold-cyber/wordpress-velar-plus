@@ -1,0 +1,1882 @@
+[
+  {
+    "slug": "global-integration-0",
+    "category": "Shopify Plugins",
+    "version": "v2.0.0",
+    "platform": "Shopify",
+    "bonus": 150,
+    "price_rub": 4500,
+    "image_url": null,
+    "name": "Shopify Inventory Sync",
+    "description": "Synchronize your Shopify inventory with Amazon, eBay and Walmart in real-time. Prevent overselling, automate stock updates across all channels, and manage everything from a single dashboard.",
+    "long_description": "Synchronize your Shopify inventory with Amazon, eBay and Walmart in real-time. Prevent overselling, automate stock updates across all channels, and manage everything from a single dashboard.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with Shopify latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your Shopify admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "Shopify store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard Shopify admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "Shopify"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best shopify integration plugin 2026",
+      "how to connect shopify with third party services",
+      "shopify inventory sync review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_1EE34FA6&productId=global-integration-0&ref=1ee34fa6"
+  },
+  {
+    "slug": "global-integration-1",
+    "category": "WooCommerce Plugins",
+    "version": "v2.0.0",
+    "platform": "WooCommerce",
+    "bonus": 150,
+    "price_rub": 3500,
+    "image_url": null,
+    "name": "Amazon FBA Connector for WooCommerce",
+    "description": "Connect your WooCommerce store to Amazon FBA. Automatically route orders to Amazon fulfillment, sync tracking numbers back to WooCommerce, and offer Prime-eligible shipping to your customers.",
+    "long_description": "Connect your WooCommerce store to Amazon FBA. Automatically route orders to Amazon fulfillment, sync tracking numbers back to WooCommerce, and offer Prime-eligible shipping to your customers.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with WooCommerce latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your WooCommerce admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "WooCommerce store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard WooCommerce admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "WooCommerce"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best woocommerce integration plugin 2026",
+      "how to connect woocommerce with third party services",
+      "amazon fba connector for woocommerce review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_2EF2CA69&productId=global-integration-1&ref=2ef2ca69"
+  },
+  {
+    "slug": "global-integration-2",
+    "category": "Shopify Plugins",
+    "version": "v2.0.0",
+    "platform": "Shopify",
+    "bonus": 150,
+    "price_rub": 6500,
+    "image_url": null,
+    "name": "Shopify to QuickBooks Integration",
+    "description": "Automatically sync Shopify orders, customers and products with QuickBooks Online. Eliminate manual bookkeeping, reconcile payments instantly, and keep your finances always up to date.",
+    "long_description": "Automatically sync Shopify orders, customers and products with QuickBooks Online. Eliminate manual bookkeeping, reconcile payments instantly, and keep your finances always up to date.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with Shopify latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your Shopify admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "Shopify store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard Shopify admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "Shopify"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best shopify integration plugin 2026",
+      "how to connect shopify with third party services",
+      "shopify to quickbooks integration review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_42F3A874&productId=global-integration-2&ref=42f3a874"
+  },
+  {
+    "slug": "global-integration-3",
+    "category": "WooCommerce Plugins",
+    "version": "v2.0.0",
+    "platform": "WooCommerce",
+    "bonus": 150,
+    "price_rub": 3500,
+    "image_url": null,
+    "name": "WooCommerce HubSpot CRM Bridge",
+    "description": "Bridge the gap between your WooCommerce store and HubSpot CRM. Every order creates or updates a contact, logs a deal, and triggers automated marketing workflows.",
+    "long_description": "Bridge the gap between your WooCommerce store and HubSpot CRM. Every order creates or updates a contact, logs a deal, and triggers automated marketing workflows.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with WooCommerce latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your WooCommerce admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "WooCommerce store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard WooCommerce admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "WooCommerce"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best woocommerce integration plugin 2026",
+      "how to connect woocommerce with third party services",
+      "woocommerce hubspot crm bridge review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_8944D07D&productId=global-integration-3&ref=8944d07d"
+  },
+  {
+    "slug": "global-integration-4",
+    "category": "Magento Plugins",
+    "version": "v2.0.0",
+    "platform": "Magento",
+    "bonus": 50,
+    "price_rub": 3500,
+    "image_url": null,
+    "name": "Magento 2 Stripe Payment Gateway",
+    "description": "Accept payments via Stripe on your Magento 2 store. Supports Apple Pay, Google Pay, 3D Secure, subscriptions, and multi-currency checkout with zero additional fees.",
+    "long_description": "Accept payments via Stripe on your Magento 2 store. Supports Apple Pay, Google Pay, 3D Secure, subscriptions, and multi-currency checkout with zero additional fees.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with Magento latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your Magento admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "Magento store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard Magento admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "Magento"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best magento integration plugin 2026",
+      "how to connect magento with third party services",
+      "magento 2 stripe payment gateway review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_5079ACC5&productId=global-integration-4&ref=5079acc5"
+  },
+  {
+    "slug": "global-integration-5",
+    "category": "Shopify Plugins",
+    "version": "v2.0.0",
+    "platform": "Shopify",
+    "bonus": 150,
+    "price_rub": 6500,
+    "image_url": null,
+    "name": "Shopify Mailchimp Automation",
+    "description": "Connect Shopify with Mailchimp for advanced email marketing automation. Sync customer data, trigger abandoned cart emails, segment audiences by purchase history, and boost repeat sales.",
+    "long_description": "Connect Shopify with Mailchimp for advanced email marketing automation. Sync customer data, trigger abandoned cart emails, segment audiences by purchase history, and boost repeat sales.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with Shopify latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your Shopify admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "Shopify store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard Shopify admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "Shopify"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best shopify integration plugin 2026",
+      "how to connect shopify with third party services",
+      "shopify mailchimp automation review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_BA63F660&productId=global-integration-5&ref=ba63f660"
+  },
+  {
+    "slug": "global-integration-6",
+    "category": "WooCommerce Plugins",
+    "version": "v2.0.0",
+    "platform": "WooCommerce",
+    "bonus": 100,
+    "price_rub": 3500,
+    "image_url": null,
+    "name": "WooCommerce Xero Accounting Sync",
+    "description": "Automatically push WooCommerce orders, payments, and refunds to Xero. Create invoices, track inventory costs, and reconcile bank feeds — all without manual data entry.",
+    "long_description": "Automatically push WooCommerce orders, payments, and refunds to Xero. Create invoices, track inventory costs, and reconcile bank feeds — all without manual data entry.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with WooCommerce latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your WooCommerce admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "WooCommerce store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard WooCommerce admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "WooCommerce"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best woocommerce integration plugin 2026",
+      "how to connect woocommerce with third party services",
+      "woocommerce xero accounting sync review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_43E4E8C8&productId=global-integration-6&ref=43e4e8c8"
+  },
+  {
+    "slug": "global-integration-7",
+    "category": "BigCommerce Plugins",
+    "version": "v2.0.0",
+    "platform": "BigCommerce",
+    "bonus": 75,
+    "price_rub": 4500,
+    "image_url": null,
+    "name": "BigCommerce Salesforce Connector",
+    "description": "Integrate BigCommerce with Salesforce CRM. Sync customers, orders, and products bi-directionally. Empower your sales team with complete ecommerce data inside Salesforce.",
+    "long_description": "Integrate BigCommerce with Salesforce CRM. Sync customers, orders, and products bi-directionally. Empower your sales team with complete ecommerce data inside Salesforce.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with BigCommerce latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your BigCommerce admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "BigCommerce store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard BigCommerce admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "BigCommerce"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best bigcommerce integration plugin 2026",
+      "how to connect bigcommerce with third party services",
+      "bigcommerce salesforce connector review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_7C2048A6&productId=global-integration-7&ref=7c2048a6"
+  },
+  {
+    "slug": "global-integration-8",
+    "category": "Shopify Plugins",
+    "version": "v2.0.0",
+    "platform": "Shopify",
+    "bonus": 75,
+    "price_rub": 4500,
+    "image_url": null,
+    "name": "Shopify ShipStation Integration",
+    "description": "Streamline your shipping workflow by connecting Shopify to ShipStation. Import orders automatically, compare carrier rates, print labels in bulk, and send tracking notifications to customers.",
+    "long_description": "Streamline your shipping workflow by connecting Shopify to ShipStation. Import orders automatically, compare carrier rates, print labels in bulk, and send tracking notifications to customers.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with Shopify latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your Shopify admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "Shopify store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard Shopify admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "Shopify"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best shopify integration plugin 2026",
+      "how to connect shopify with third party services",
+      "shopify shipstation integration review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_45809CFD&productId=global-integration-8&ref=45809cfd"
+  },
+  {
+    "slug": "global-integration-9",
+    "category": "WooCommerce Plugins",
+    "version": "v2.0.0",
+    "platform": "WooCommerce",
+    "bonus": 100,
+    "price_rub": 3500,
+    "image_url": null,
+    "name": "WooCommerce Zapier Automation Hub",
+    "description": "Connect WooCommerce to 5000+ apps via Zapier. Trigger workflows on new orders, product updates, customer registrations and more. No coding required.",
+    "long_description": "Connect WooCommerce to 5000+ apps via Zapier. Trigger workflows on new orders, product updates, customer registrations and more. No coding required.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with WooCommerce latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your WooCommerce admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "WooCommerce store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard WooCommerce admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "WooCommerce"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best woocommerce integration plugin 2026",
+      "how to connect woocommerce with third party services",
+      "woocommerce zapier automation hub review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_9EADE43D&productId=global-integration-9&ref=9eade43d"
+  },
+  {
+    "slug": "global-integration-10",
+    "category": "Magento Plugins",
+    "version": "v2.0.0",
+    "platform": "Magento",
+    "bonus": 50,
+    "price_rub": 4500,
+    "image_url": null,
+    "name": "Magento 2 Elasticsearch Integration",
+    "description": "Supercharge your Magento 2 store search with Elasticsearch. Deliver instant, typo-tolerant, faceted search results that increase conversion rates by up to 30%.",
+    "long_description": "Supercharge your Magento 2 store search with Elasticsearch. Deliver instant, typo-tolerant, faceted search results that increase conversion rates by up to 30%.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with Magento latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your Magento admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "Magento store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard Magento admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "Magento"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best magento integration plugin 2026",
+      "how to connect magento with third party services",
+      "magento 2 elasticsearch integration review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_42539E42&productId=global-integration-10&ref=42539e42"
+  },
+  {
+    "slug": "global-integration-11",
+    "category": "Shopify Plugins",
+    "version": "v2.0.0",
+    "platform": "Shopify",
+    "bonus": 150,
+    "price_rub": 2500,
+    "image_url": null,
+    "name": "Shopify Google Shopping Feed",
+    "description": "Generate optimized Google Shopping product feeds from your Shopify catalog. Supports Google Merchant Center, Microsoft Advertising, and Facebook Commerce. Automatic feed updates every hour.",
+    "long_description": "Generate optimized Google Shopping product feeds from your Shopify catalog. Supports Google Merchant Center, Microsoft Advertising, and Facebook Commerce. Automatic feed updates every hour.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with Shopify latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your Shopify admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "Shopify store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard Shopify admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "Shopify"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best shopify integration plugin 2026",
+      "how to connect shopify with third party services",
+      "shopify google shopping feed review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_C9BBDC5F&productId=global-integration-11&ref=c9bbdc5f"
+  },
+  {
+    "slug": "global-integration-12",
+    "category": "WooCommerce Plugins",
+    "version": "v2.0.0",
+    "platform": "WooCommerce",
+    "bonus": 100,
+    "price_rub": 2500,
+    "image_url": null,
+    "name": "WooCommerce Twilio SMS Notifications",
+    "description": "Send automated SMS notifications via Twilio for WooCommerce order events. Notify customers about order confirmations, shipping updates, and delivery status in real-time.",
+    "long_description": "Send automated SMS notifications via Twilio for WooCommerce order events. Notify customers about order confirmations, shipping updates, and delivery status in real-time.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with WooCommerce latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your WooCommerce admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "WooCommerce store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard WooCommerce admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "WooCommerce"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best woocommerce integration plugin 2026",
+      "how to connect woocommerce with third party services",
+      "woocommerce twilio sms notifications review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_A807F197&productId=global-integration-12&ref=a807f197"
+  },
+  {
+    "slug": "global-integration-13",
+    "category": "WordPress Plugins",
+    "version": "v2.0.0",
+    "platform": "WordPress",
+    "bonus": 75,
+    "price_rub": 6500,
+    "image_url": null,
+    "name": "Squarespace to WordPress Migration Tool",
+    "description": "Migrate your entire Squarespace website to WordPress with one click. Transfers pages, blog posts, images, SEO metadata, and URL redirects automatically. Zero downtime migration.",
+    "long_description": "Migrate your entire Squarespace website to WordPress with one click. Transfers pages, blog posts, images, SEO metadata, and URL redirects automatically. Zero downtime migration.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with WordPress latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your WordPress admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "WordPress store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard WordPress admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "WordPress"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best wordpress integration plugin 2026",
+      "how to connect wordpress with third party services",
+      "squarespace to wordpress migration tool review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_64995F79&productId=global-integration-13&ref=64995f79"
+  },
+  {
+    "slug": "global-integration-14",
+    "category": "Shopify Plugins",
+    "version": "v2.0.0",
+    "platform": "Shopify",
+    "bonus": 100,
+    "price_rub": 6500,
+    "image_url": null,
+    "name": "Shopify Klaviyo Advanced Integration",
+    "description": "Unlock advanced Klaviyo features for your Shopify store. Deep customer segmentation, predictive analytics, advanced A/B testing, and revenue attribution — all synced in real-time.",
+    "long_description": "Unlock advanced Klaviyo features for your Shopify store. Deep customer segmentation, predictive analytics, advanced A/B testing, and revenue attribution — all synced in real-time.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with Shopify latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your Shopify admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "Shopify store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard Shopify admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "Shopify"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best shopify integration plugin 2026",
+      "how to connect shopify with third party services",
+      "shopify klaviyo advanced integration review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_2CC34E33&productId=global-integration-14&ref=2cc34e33"
+  },
+  {
+    "slug": "global-integration-15",
+    "category": "WooCommerce Plugins",
+    "version": "v2.0.0",
+    "platform": "WooCommerce",
+    "bonus": 75,
+    "price_rub": 3500,
+    "image_url": null,
+    "name": "WooCommerce PayPal Commerce Platform",
+    "description": "Accept PayPal, Venmo, Pay Later, and card payments through the PayPal Commerce Platform on WooCommerce. Smart payment buttons, seller protection, and instant payouts included.",
+    "long_description": "Accept PayPal, Venmo, Pay Later, and card payments through the PayPal Commerce Platform on WooCommerce. Smart payment buttons, seller protection, and instant payouts included.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with WooCommerce latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your WooCommerce admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "WooCommerce store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard WooCommerce admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "WooCommerce"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best woocommerce integration plugin 2026",
+      "how to connect woocommerce with third party services",
+      "woocommerce paypal commerce platform review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_186818DB&productId=global-integration-15&ref=186818db"
+  },
+  {
+    "slug": "global-integration-16",
+    "category": "Magento Plugins",
+    "version": "v2.0.0",
+    "platform": "Magento",
+    "bonus": 100,
+    "price_rub": 3500,
+    "image_url": null,
+    "name": "Magento 2 ERP Integration Suite",
+    "description": "Connect Magento 2 with major ERP systems including SAP, Oracle NetSuite, and Microsoft Dynamics. Bi-directional sync of products, orders, customers, and inventory levels.",
+    "long_description": "Connect Magento 2 with major ERP systems including SAP, Oracle NetSuite, and Microsoft Dynamics. Bi-directional sync of products, orders, customers, and inventory levels.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with Magento latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your Magento admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "Magento store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard Magento admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "Magento"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best magento integration plugin 2026",
+      "how to connect magento with third party services",
+      "magento 2 erp integration suite review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_C981244D&productId=global-integration-16&ref=c981244d"
+  },
+  {
+    "slug": "global-integration-17",
+    "category": "Shopify Plugins",
+    "version": "v2.0.0",
+    "platform": "Shopify",
+    "bonus": 75,
+    "price_rub": 2500,
+    "image_url": null,
+    "name": "Shopify Zendesk Customer Support",
+    "description": "Integrate Shopify with Zendesk Support. View customer order history inside support tickets, process refunds and cancellations without leaving Zendesk, and resolve issues 40% faster.",
+    "long_description": "Integrate Shopify with Zendesk Support. View customer order history inside support tickets, process refunds and cancellations without leaving Zendesk, and resolve issues 40% faster.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with Shopify latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your Shopify admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "Shopify store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard Shopify admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "Shopify"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best shopify integration plugin 2026",
+      "how to connect shopify with third party services",
+      "shopify zendesk customer support review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_CA36F1B8&productId=global-integration-17&ref=ca36f1b8"
+  },
+  {
+    "slug": "global-integration-18",
+    "category": "WooCommerce Plugins",
+    "version": "v2.0.0",
+    "platform": "WooCommerce",
+    "bonus": 100,
+    "price_rub": 2500,
+    "image_url": null,
+    "name": "WooCommerce Slack Order Alerts",
+    "description": "Get instant Slack notifications for WooCommerce events. New orders, low stock alerts, failed payments, and customer registrations — all delivered to your preferred Slack channels.",
+    "long_description": "Get instant Slack notifications for WooCommerce events. New orders, low stock alerts, failed payments, and customer registrations — all delivered to your preferred Slack channels.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with WooCommerce latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your WooCommerce admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "WooCommerce store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard WooCommerce admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "WooCommerce"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best woocommerce integration plugin 2026",
+      "how to connect woocommerce with third party services",
+      "woocommerce slack order alerts review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_23F75CAC&productId=global-integration-18&ref=23f75cac"
+  },
+  {
+    "slug": "global-integration-19",
+    "category": "BigCommerce Plugins",
+    "version": "v2.0.0",
+    "platform": "BigCommerce",
+    "bonus": 100,
+    "price_rub": 4500,
+    "image_url": null,
+    "name": "BigCommerce Google Analytics 4 Enhanced",
+    "description": "Implement Google Analytics 4 enhanced ecommerce tracking on BigCommerce. Track product impressions, add-to-cart events, checkout steps, and purchase conversions with pixel-perfect accuracy.",
+    "long_description": "Implement Google Analytics 4 enhanced ecommerce tracking on BigCommerce. Track product impressions, add-to-cart events, checkout steps, and purchase conversions with pixel-perfect accuracy.\n\nThis plugin is designed for modern ecommerce businesses that need reliable, scalable integrations without hiring expensive developers. Install in under 5 minutes, configure through an intuitive admin panel, and start automating immediately.\n\nBuilt on official APIs with enterprise-grade security. All data is transmitted over encrypted HTTPS connections. The plugin includes automatic updates, compatibility patches for new platform versions, and premium technical support.\n\nUnlike monthly subscription services like Zapier or Make, this plugin runs on your own server with zero recurring fees and no limits on the number of processed transactions.",
+    "features": [
+      "One-click installation — no coding required",
+      "Official API integration — reliable and secure",
+      "Full compatibility with BigCommerce latest versions",
+      "Automatic updates included with license",
+      "Premium technical support",
+      "Unlimited transactions — no monthly fees"
+    ],
+    "how_it_works": [
+      {
+        "step": "Install",
+        "text": "Upload the plugin through your BigCommerce admin panel and activate it."
+      },
+      {
+        "step": "Configure",
+        "text": "Enter your API credentials and configure the integration settings."
+      },
+      {
+        "step": "Map Fields",
+        "text": "Set up field mapping between your store and the connected service."
+      },
+      {
+        "step": "Test",
+        "text": "Run a test transaction to verify everything works correctly."
+      },
+      {
+        "step": "Go Live",
+        "text": "Your integration is ready. All operations will be handled automatically 24/7."
+      }
+    ],
+    "who_needs": [
+      "BigCommerce store owners",
+      "Multi-channel sellers",
+      "Digital agencies managing client stores",
+      "Businesses scaling their ecommerce operations"
+    ],
+    "faq": [
+      {
+        "q": "Do I need a developer to install this?",
+        "a": "No. The plugin installs through the standard BigCommerce admin panel in under 5 minutes."
+      },
+      {
+        "q": "What is included in the license?",
+        "a": "The license includes the plugin, all future updates, platform compatibility patches, and premium support."
+      },
+      {
+        "q": "Are there any transaction limits?",
+        "a": "No. The plugin runs on your server and has no limits on the number of transactions or API calls."
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Platform",
+        "value": "BigCommerce"
+      },
+      {
+        "name": "PHP Compatibility",
+        "value": "7.4, 8.0, 8.1, 8.2"
+      },
+      {
+        "name": "License",
+        "value": "GPLv2+"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Updates",
+        "value": "Included"
+      },
+      {
+        "name": "Support",
+        "value": "Premium"
+      }
+    ],
+    "intents": [
+      "best bigcommerce integration plugin 2026",
+      "how to connect bigcommerce with third party services",
+      "bigcommerce google analytics 4 enhanced review"
+    ],
+    "purchase_url": "https://yookassa.ru/checkout?shopId=SHOP_B9724E7E&productId=global-integration-19&ref=b9724e7e"
+  }
+]
