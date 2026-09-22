@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { Manrope } from 'next/font/google';
-import Script from 'next/script';
+import { YandexMetrika } from '@/components/YandexMetrika';
 import './globals.css';
 
 const manrope = Manrope({ 
@@ -123,14 +123,7 @@ export default function RootLayout({
       <body className={`${manrope.className} bg-[#fbfbfd] text-[#09090b] min-h-screen flex flex-col antialiased selection:bg-[#09090b] selection:text-white`}>
         {children}
 
-        {/* Счётчик посетителей (асинхронный, без задержки загрузки страницы) */}
-        <Script
-          id="visitor-stat-tracker"
-          strategy="afterInteractive"
-          dangerouslySetInnerHTML={{
-            __html: `fetch('https://v0-stat-cloud.vercel.app/api/track', { mode: 'no-cors' }).catch(() => {});`,
-          }}
-        />
+        <YandexMetrika />
       </body>
     </html>
   );
